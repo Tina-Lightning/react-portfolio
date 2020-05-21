@@ -1,0 +1,7 @@
+.projects-grid {
+    display: flex;
+    flex-wrap: wrap;
+}
+.cardDiv {
+    float: left;
+}
